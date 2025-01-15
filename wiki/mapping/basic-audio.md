@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/47479aa1-067b-4d0d-b5df-ea9e8c438435)
+![image](https://github.com/user-attachments/assets/48f3e625-1168-4cab-8e6c-a6cc6a5d990f)
+![image](https://github.com/user-attachments/assets/1db62683-e907-4f82-861c-7d43565eb314)
 ---
 prev: false
 next: false
@@ -222,7 +225,7 @@ After generating the silence you can click the dark line in the song track to ge
 
 If the method above fails you will have to manually find the BPM, but this is easier than you might think.
 
-1. Use an online BPM tapping calculator (like the [Tap for BPM Tool](https://www.all8.com/tools/bpm.htm),
+1. Use an online BPM tapping calculator (like the [Tap for BPM Tool],
    open the page in your web browser).
 2. Play the song in your favorite music player.
 3. With the webpage in focus, tap any key to the beat (every quarter note) for about 30 seconds and the
